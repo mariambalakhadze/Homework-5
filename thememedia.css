@@ -1,0 +1,7 @@
+@media all and (max-width:   768px) {
+    main {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+}
